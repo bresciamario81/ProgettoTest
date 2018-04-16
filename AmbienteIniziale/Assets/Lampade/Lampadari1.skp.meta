@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 72e2ca21aed70774f8dd48a9cc3d41e2
+timeCreated: 1523616056
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b70bef2c588c90f636cc1505c29201e6
+  longitude: 12.5
+  latitude: 41.883
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 18.177778, y: 6.3647842, z: 0.7891425}
+      lookAt: {x: 13.140871, y: 5.32211, z: 0.7493828}
+      up: {x: -0.20269682, y: 0.97924024, z: -0.0016000214}
+      fov: 47.1583
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component#24
+    100002: Component#24 1
+    100004: Component#24 2
+    100006: Component#24 3
+    100008: Component#25
+    100010: Component#25 1
+    100012: Component#25 2
+    100014: Component#26
+    100016: Component#27
+    100018: Component#28
+    100020: Component#29
+    100022: Component#29 1
+    100024: Component#30
+    100026: Component#30 1
+    100028: Component#30 2
+    100030: Component#31
+    100032: Component#31 1
+    100034: Component#31 2
+    100036: Component#31 3
+    100038: Component#31 4
+    100040: Component#31 5
+    100042: Component#32
+    100044: Component#33
+    100046: Component#34
+    100048: Component#34 1
+    100050: Component#34 2
+    100052: Component#34 3
+    100054: Component#35
+    100056: Component#35 1
+    100058: Component#35 2
+    100060: Component#35 3
+    100062: Component#35 4
+    100064: Component#35 5
+    100066: Component#35 6
+    100068: Component#35 7
+    100070: Component#35 8
+    100072: Component#36
+    100074: Component#36 1
+    100076: Component#36 2
+    100078: Component#37
+    100080: Component#37 1
+    100082: Component#37 2
+    100084: Component#38
+    100086: Component#39
+    100088: Component#40
+    100090: Component#40 1
+    100092: Component#40 2
+    100094: Component#40 3
+    100096: Component#40 4
+    100098: Component#40 5
+    100100: Component#40 6
+    100102: Component#40 7
+    100104: DL18603_01
+    100106: Group 1
+    100108: Group 11
+    100110: Group 3
+    100112: Group 5
+    100114: Group 7
+    100116: Group 9
+    100118: KARE 30652 Floor Lamp Jumbo Spot (SL Jumbo Spot)
+    100120: //RootNode
+    100122: skp7C28
+    400000: Component#24
+    400002: Component#24 1
+    400004: Component#24 2
+    400006: Component#24 3
+    400008: Component#25
+    400010: Component#25 1
+    400012: Component#25 2
+    400014: Component#26
+    400016: Component#27
+    400018: Component#28
+    400020: Component#29
+    400022: Component#29 1
+    400024: Component#30
+    400026: Component#30 1
+    400028: Component#30 2
+    400030: Component#31
+    400032: Component#31 1
+    400034: Component#31 2
+    400036: Component#31 3
+    400038: Component#31 4
+    400040: Component#31 5
+    400042: Component#32
+    400044: Component#33
+    400046: Component#34
+    400048: Component#34 1
+    400050: Component#34 2
+    400052: Component#34 3
+    400054: Component#35
+    400056: Component#35 1
+    400058: Component#35 2
+    400060: Component#35 3
+    400062: Component#35 4
+    400064: Component#35 5
+    400066: Component#35 6
+    400068: Component#35 7
+    400070: Component#35 8
+    400072: Component#36
+    400074: Component#36 1
+    400076: Component#36 2
+    400078: Component#37
+    400080: Component#37 1
+    400082: Component#37 2
+    400084: Component#38
+    400086: Component#39
+    400088: Component#40
+    400090: Component#40 1
+    400092: Component#40 2
+    400094: Component#40 3
+    400096: Component#40 4
+    400098: Component#40 5
+    400100: Component#40 6
+    400102: Component#40 7
+    400104: DL18603_01
+    400106: Group 1
+    400108: Group 11
+    400110: Group 3
+    400112: Group 5
+    400114: Group 7
+    400116: Group 9
+    400118: KARE 30652 Floor Lamp Jumbo Spot (SL Jumbo Spot)
+    400120: //RootNode
+    400122: skp7C28
+    2300000: Component#24
+    2300002: Component#24 1
+    2300004: Component#24 2
+    2300006: Component#24 3
+    2300008: Component#25
+    2300010: Component#25 1
+    2300012: Component#25 2
+    2300014: Component#26
+    2300016: Component#27
+    2300018: Component#28
+    2300020: Component#29
+    2300022: Component#29 1
+    2300024: Component#30
+    2300026: Component#30 1
+    2300028: Component#30 2
+    2300030: Component#31
+    2300032: Component#31 1
+    2300034: Component#31 2
+    2300036: Component#31 3
+    2300038: Component#31 4
+    2300040: Component#31 5
+    2300042: Component#32
+    2300044: Component#33
+    2300046: Component#34
+    2300048: Component#34 1
+    2300050: Component#34 2
+    2300052: Component#34 3
+    2300054: Component#35
+    2300056: Component#35 1
+    2300058: Component#35 2
+    2300060: Component#35 3
+    2300062: Component#35 4
+    2300064: Component#35 5
+    2300066: Component#35 6
+    2300068: Component#35 7
+    2300070: Component#35 8
+    2300072: Component#36
+    2300074: Component#36 1
+    2300076: Component#36 2
+    2300078: Component#37
+    2300080: Component#37 1
+    2300082: Component#37 2
+    2300084: Component#38
+    2300086: Component#39
+    2300088: Component#40
+    2300090: Component#40 1
+    2300092: Component#40 2
+    2300094: Component#40 3
+    2300096: Component#40 4
+    2300098: Component#40 5
+    2300100: Component#40 6
+    2300102: Component#40 7
+    2300104: DL18603_01
+    2300106: Group 1
+    2300108: Group 11
+    2300110: Group 3
+    2300112: Group 5
+    2300114: Group 7
+    2300116: Group 9
+    3300000: Component#24
+    3300002: Component#24 1
+    3300004: Component#24 2
+    3300006: Component#24 3
+    3300008: Component#25
+    3300010: Component#25 1
+    3300012: Component#25 2
+    3300014: Component#26
+    3300016: Component#27
+    3300018: Component#28
+    3300020: Component#29
+    3300022: Component#29 1
+    3300024: Component#30
+    3300026: Component#30 1
+    3300028: Component#30 2
+    3300030: Component#31
+    3300032: Component#31 1
+    3300034: Component#31 2
+    3300036: Component#31 3
+    3300038: Component#31 4
+    3300040: Component#31 5
+    3300042: Component#32
+    3300044: Component#33
+    3300046: Component#34
+    3300048: Component#34 1
+    3300050: Component#34 2
+    3300052: Component#34 3
+    3300054: Component#35
+    3300056: Component#35 1
+    3300058: Component#35 2
+    3300060: Component#35 3
+    3300062: Component#35 4
+    3300064: Component#35 5
+    3300066: Component#35 6
+    3300068: Component#35 7
+    3300070: Component#35 8
+    3300072: Component#36
+    3300074: Component#36 1
+    3300076: Component#36 2
+    3300078: Component#37
+    3300080: Component#37 1
+    3300082: Component#37 2
+    3300084: Component#38
+    3300086: Component#39
+    3300088: Component#40
+    3300090: Component#40 1
+    3300092: Component#40 2
+    3300094: Component#40 3
+    3300096: Component#40 4
+    3300098: Component#40 5
+    3300100: Component#40 6
+    3300102: Component#40 7
+    3300104: DL18603_01
+    3300106: Group 1
+    3300108: Group 11
+    3300110: Group 3
+    3300112: Group 5
+    3300114: Group 7
+    3300116: Group 9
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh Component#24
+    4300014: Mesh Component#34
+    4300016: Mesh Component#38
+    4300018: Mesh Component#40
+    4300020: Mesh Component#33
+    4300022: Mesh Component#32
+    4300024: Mesh Component#26
+    4300026: Mesh Component#29
+    4300028: Mesh Component#27
+    4300030: Mesh Component#35
+    4300032: Mesh Component#31
+    4300034: Mesh Component#25
+    4300036: Mesh Component#39
+    4300038: Mesh Component#36
+    4300040: Mesh Component#37
+    4300042: Mesh Component#30
+    4300044: Mesh Component#28
+    4300046: Mesh DL18603_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 121985
+    second: {fileID: 2100000, guid: 883fbdb488ea31d4b9eb544504da704e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 96,96,1
+    second: {fileID: 2100000, guid: 033856e19b47e0b499d2c6b04dd21f24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Chain_Link
+    second: {fileID: 2100000, guid: d76679f1929b4c04d899244bb933a298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat win
+    second: {fileID: 2100000, guid: 1214316b05a51204a9c5097a79aeb995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 74fd7d4ef2ff7774783ac5cb75f85455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal_Corrogated_Shiny]2'
+    second: {fileID: 2100000, guid: 6efd44eb38b743d418c21511d34ee350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]1'
+    second: {fileID: 2100000, guid: eb93d1720d52efc4e88266691f0bad7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]2'
+    second: {fileID: 2100000, guid: 760e1511c71a6cf4fb1c7f9bf2542792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _15
+    second: {fileID: 2100000, guid: a36e30efd8397884c89e57635b66d188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: 5ad4f377be425a84d8d68d7863081fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _17
+    second: {fileID: 2100000, guid: e17366cd2f227964fa3f2f4799919c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 949ae99cc79879d4682c8bd90bcbd8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: b5fe8434ce993c54087af46a5d1009e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sombre
+    second: {fileID: 2100000, guid: aa26b2afa989fcf4e86662dbabbc3226, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

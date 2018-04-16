@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 6692668a802a70d45a1877eb93c8ba2a
+timeCreated: 1523616047
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9616c727c197341ac10f7f6244a195e8
+  longitude: 12.5
+  latitude: 41.883
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.0988631, y: 1.3442422, z: 1.3536434}
+      lookAt: {x: 5.641015, y: 1.0973252, z: 2.2597768}
+      up: {x: 0.08582138, y: 0.99584085, z: 0.030590469}
+      fov: 47.1583
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 2
+    100006: Component#1 3
+    100008: Component#3
+    100010: Component#3 1
+    100012: Group 1
+    100014: Group 10
+    100016: Group 101
+    100018: Group 103
+    100020: Group 105
+    100022: Group 107
+    100024: Group 111
+    100026: Group 113
+    100028: Group 115
+    100030: Group 117
+    100032: Group 119
+    100034: Group 121
+    100036: Group 123
+    100038: Group 127
+    100040: Group 129
+    100042: Group 15
+    100044: Group 17
+    100046: Group 21
+    100048: Group 23
+    100050: Group 25
+    100052: Group 26
+    100054: Group 27
+    100056: Group 3
+    100058: Group 32
+    100060: Group 34
+    100062: Group 38
+    100064: Group 40
+    100066: Group 42
+    100068: Group 44
+    100070: Group 45
+    100072: Group 47
+    100074: Group 49
+    100076: Group 5
+    100078: Group 51
+    100080: Group 53
+    100082: Group 55
+    100084: Group 57
+    100086: Group 59
+    100088: Group 6
+    100090: Group 61
+    100092: Group 63
+    100094: Group 65
+    100096: Group 67
+    100098: Group 69
+    100100: Group 71
+    100102: Group 73
+    100104: Group 75
+    100106: Group 77
+    100108: Group 79
+    100110: Group 8
+    100112: Group 81
+    100114: Group 83
+    100116: Group 85
+    100118: Group 87
+    100120: Group 89
+    100122: Group 9
+    100124: Group 91
+    100126: Group 93
+    100128: Group 95
+    100130: Group 97
+    100132: Group 99
+    100134: Natuzzi Cambre 2638 089
+    100136: Object
+    100138: Table Basse Mobius
+    100140: //RootNode
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 2
+    400006: Component#1 3
+    400008: Component#3
+    400010: Component#3 1
+    400012: Group 1
+    400014: Group 10
+    400016: Group 101
+    400018: Group 103
+    400020: Group 105
+    400022: Group 107
+    400024: Group 111
+    400026: Group 113
+    400028: Group 115
+    400030: Group 117
+    400032: Group 119
+    400034: Group 121
+    400036: Group 123
+    400038: Group 127
+    400040: Group 129
+    400042: Group 15
+    400044: Group 17
+    400046: Group 21
+    400048: Group 23
+    400050: Group 25
+    400052: Group 26
+    400054: Group 27
+    400056: Group 3
+    400058: Group 32
+    400060: Group 34
+    400062: Group 38
+    400064: Group 40
+    400066: Group 42
+    400068: Group 44
+    400070: Group 45
+    400072: Group 47
+    400074: Group 49
+    400076: Group 5
+    400078: Group 51
+    400080: Group 53
+    400082: Group 55
+    400084: Group 57
+    400086: Group 59
+    400088: Group 6
+    400090: Group 61
+    400092: Group 63
+    400094: Group 65
+    400096: Group 67
+    400098: Group 69
+    400100: Group 71
+    400102: Group 73
+    400104: Group 75
+    400106: Group 77
+    400108: Group 79
+    400110: Group 8
+    400112: Group 81
+    400114: Group 83
+    400116: Group 85
+    400118: Group 87
+    400120: Group 89
+    400122: Group 9
+    400124: Group 91
+    400126: Group 93
+    400128: Group 95
+    400130: Group 97
+    400132: Group 99
+    400134: Natuzzi Cambre 2638 089
+    400136: Object
+    400138: Table Basse Mobius
+    400140: //RootNode
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 2
+    2300006: Component#1 3
+    2300008: Group 1
+    2300010: Group 10
+    2300012: Group 101
+    2300014: Group 103
+    2300016: Group 105
+    2300018: Group 107
+    2300020: Group 111
+    2300022: Group 113
+    2300024: Group 115
+    2300026: Group 117
+    2300028: Group 119
+    2300030: Group 121
+    2300032: Group 123
+    2300034: Group 127
+    2300036: Group 129
+    2300038: Group 15
+    2300040: Group 17
+    2300042: Group 21
+    2300044: Group 23
+    2300046: Group 27
+    2300048: Group 3
+    2300050: Group 32
+    2300052: Group 34
+    2300054: Group 38
+    2300056: Group 40
+    2300058: Group 42
+    2300060: Group 45
+    2300062: Group 47
+    2300064: Group 49
+    2300066: Group 51
+    2300068: Group 53
+    2300070: Group 55
+    2300072: Group 57
+    2300074: Group 59
+    2300076: Group 6
+    2300078: Group 61
+    2300080: Group 63
+    2300082: Group 65
+    2300084: Group 67
+    2300086: Group 69
+    2300088: Group 71
+    2300090: Group 73
+    2300092: Group 75
+    2300094: Group 77
+    2300096: Group 79
+    2300098: Group 81
+    2300100: Group 83
+    2300102: Group 85
+    2300104: Group 87
+    2300106: Group 89
+    2300108: Group 91
+    2300110: Group 93
+    2300112: Group 95
+    2300114: Group 97
+    2300116: Group 99
+    2300118: Natuzzi Cambre 2638 089
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 2
+    3300006: Component#1 3
+    3300008: Group 1
+    3300010: Group 10
+    3300012: Group 101
+    3300014: Group 103
+    3300016: Group 105
+    3300018: Group 107
+    3300020: Group 111
+    3300022: Group 113
+    3300024: Group 115
+    3300026: Group 117
+    3300028: Group 119
+    3300030: Group 121
+    3300032: Group 123
+    3300034: Group 127
+    3300036: Group 129
+    3300038: Group 15
+    3300040: Group 17
+    3300042: Group 21
+    3300044: Group 23
+    3300046: Group 27
+    3300048: Group 3
+    3300050: Group 32
+    3300052: Group 34
+    3300054: Group 38
+    3300056: Group 40
+    3300058: Group 42
+    3300060: Group 45
+    3300062: Group 47
+    3300064: Group 49
+    3300066: Group 51
+    3300068: Group 53
+    3300070: Group 55
+    3300072: Group 57
+    3300074: Group 59
+    3300076: Group 6
+    3300078: Group 61
+    3300080: Group 63
+    3300082: Group 65
+    3300084: Group 67
+    3300086: Group 69
+    3300088: Group 71
+    3300090: Group 73
+    3300092: Group 75
+    3300094: Group 77
+    3300096: Group 79
+    3300098: Group 81
+    3300100: Group 83
+    3300102: Group 85
+    3300104: Group 87
+    3300106: Group 89
+    3300108: Group 91
+    3300110: Group 93
+    3300112: Group 95
+    3300114: Group 97
+    3300116: Group 99
+    3300118: Natuzzi Cambre 2638 089
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 6
+    4300006: Mesh Group 10
+    4300008: Mesh Component#1
+    4300010: Mesh Group 15
+    4300012: Mesh Group 17
+    4300014: Mesh Group 21
+    4300016: Mesh Group 23
+    4300018: Mesh Group 42
+    4300020: Mesh Group 45
+    4300022: Mesh Group 47
+    4300024: Mesh Group 49
+    4300026: Mesh Group 51
+    4300028: Mesh Group 53
+    4300030: Mesh Group 55
+    4300032: Mesh Group 57
+    4300034: Mesh Group 61
+    4300036: Mesh Group 63
+    4300038: Mesh Group 71
+    4300040: Mesh Group 73
+    4300042: Mesh Group 79
+    4300044: Mesh Group 85
+    4300046: Mesh Group 87
+    4300048: Mesh Group 89
+    4300050: Mesh Natuzzi Cambre 2638 089
+    4300052: Mesh Group 111
+    4300054: Mesh Group 113
+    4300056: Mesh Group 115
+    4300058: Mesh Group 117
+    4300060: Mesh Group 119
+    4300062: Mesh Group 121
+    4300064: Mesh Group 123
+    4300066: Mesh Group 127
+    4300068: Mesh Group 129
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 150025CC
+    second: {fileID: 2100000, guid: 1190de194db436b4ab7a3ccd7a4cac6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 70006203
+    second: {fileID: 2100000, guid: 839d087d594ad9c41ba3c6b7f5b0a3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black2
+    second: {fileID: 2100000, guid: f9e07b386f3d0004bb87441d7d418504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Castagno-15x60
+    second: {fileID: 2100000, guid: 4def3ad1fda4e2a46b8c486174182a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: a1f08efbcdedc1345b8d14fbd780709a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold nice
+    second: {fileID: 2100000, guid: 8eab26296604c7d4485fe6c245a4611f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55'
+    second: {fileID: 2100000, guid: 72803d02ed86ad149a58d5f92f76e267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: c19bb3ef16b3e3f4989bbcc994b0887d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal Rough]1'
+    second: {fileID: 2100000, guid: 17c96b271ea24d944ab632b18982f1d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: ef2a75ce4dbc78d4ca2bde9df7e19597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 1aa67549add516f42afa7c663ff97c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: e2773f5f7d74eee4aae3e7fc0323c7ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fdcda36074da26c92397e5501fd79e19
+    second: {fileID: 2100000, guid: 5b80abede68655643ad7d423e59497df, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
